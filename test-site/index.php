@@ -1,3 +1,3 @@
 <?PHP
-	echo "Hello, World! This is Revision 1.";
+	echo "Hello, World! This is the initial release.";
 ?>
